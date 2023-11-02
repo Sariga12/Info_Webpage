@@ -1,4 +1,4 @@
-
+javascript
 // smooth scroll
 var navbarHeight = $(".navbar").outerHeight();
 $(".navbar-menu a").click(function(e){
